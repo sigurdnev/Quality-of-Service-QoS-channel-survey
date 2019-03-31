@@ -2,7 +2,7 @@
 * Monitor RF noise on all BLE RF channels
 * Result may be used to avoid busy channels
   * Set advertiser/scanner/connection channel map
-  * Note: Only the BLE Central is allowed to request a change in the channel map. Create a custom BLE service to share results with the central. 
+  * Note: Only the BLE Central is allowed to request a change in the channel map. Create a custom BLE service in order to share the result with the central. 
   
   
 ## Channel survey demo application ##
